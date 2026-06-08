@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1780900629136,
+    "title": "Learn React",
+    "description": "Study Learn",
+    "dueDate": "2026-06-27",
+    "completed": true,
+    "createdAt": "2026-06-08T06:37:09.136Z"
+  },
+  {
+    "id": 1780900565527,
+    "title": "Study JS",
+    "description": "Learn JS",
+    "dueDate": "2026-06-23",
+    "completed": false,
+    "createdAt": "2026-06-08T06:36:05.527Z"
+  }
+]
